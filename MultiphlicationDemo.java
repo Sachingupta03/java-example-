@@ -13,9 +13,9 @@ public class MultiphlicationDemo {
         double x = 3.1241314;
         double y = 2.2222263;
 
-        System.out.println("intsum" + (a - b));
-        System.out.println("float sum" + (no1 - no2));
-        System.out.println("doulesum" + (x - y));
+        System.out.println("intsum" + (a*b));
+        System.out.println("float sum" + (no1 * no2));
+        System.out.println("doulesum" + (x * y));
     }
 
         public static void main(String[]args){
